@@ -167,22 +167,3 @@ CREATE TABLE login_cadastro (
 INSERT INTO login_cadastro (nome_comp, email, senha) 
 VALUES ('Admin', 'admin@estoque.com', '123456');
 ```
-
----
-
-Este é o conteúdo completo do README.md em Markdown profissional. Você pode:
-
-1. **Copiar e colar** diretamente no arquivo [README.md](README.md)
-2. **Editar** conforme necessário (nomes de empresa, contatos, etc.)
-3. **Adaptar** links/referências se o repositório mudar de estrutura
-
-O documento está bem formatado com:
-- ✅ Títulos hierárquicos (`#`, `##`, `###`)
-- ✅ Emojis para visual apelativo
-- ✅ Tabelas de dados
-- ✅ Blocos de código com syntax highlighting
-- ✅ Links internos aos arquivos principais
-- ✅ Seções de setup, troubleshooting, segurança
-- ✅ Instruções claras e passo-a-passo
-
-Pronto para usar em GitHub/GitLab! 🚀
